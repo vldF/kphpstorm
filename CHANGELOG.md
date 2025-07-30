@@ -84,3 +84,22 @@
 - phpdoc simplification
 - custom quick documentation and type info
 - support both PHP and KPHP projects
+
+[Unreleased]: https://github.com/VKCOM/kphpstorm/compare/v1.2.14...HEAD
+[1.2.14]: https://github.com/VKCOM/kphpstorm/compare/v1.2.13...v1.2.14
+[1.2.13]: https://github.com/VKCOM/kphpstorm/compare/v1.2.12...v1.2.13
+[1.2.12]: https://github.com/VKCOM/kphpstorm/compare/v1.2.11...v1.2.12
+[1.2.11]: https://github.com/VKCOM/kphpstorm/compare/v1.2.10...v1.2.11
+[1.2.10]: https://github.com/VKCOM/kphpstorm/compare/v1.2.9...v1.2.10
+[1.2.9]: https://github.com/VKCOM/kphpstorm/compare/v1.2.8...v1.2.9
+[1.2.8]: https://github.com/VKCOM/kphpstorm/compare/v1.2.7...v1.2.8
+[1.2.7]: https://github.com/VKCOM/kphpstorm/compare/v1.2.6...v1.2.7
+[1.2.6]: https://github.com/VKCOM/kphpstorm/compare/v1.2.5...v1.2.6
+[1.2.5]: https://github.com/VKCOM/kphpstorm/compare/v1.2.4...v1.2.5
+[1.2.4]: https://github.com/VKCOM/kphpstorm/compare/v1.2.3...v1.2.4
+[1.2.3]: https://github.com/VKCOM/kphpstorm/compare/v1.2.2...v1.2.3
+[1.2.2]: https://github.com/VKCOM/kphpstorm/compare/v1.2.1...v1.2.2
+[1.2.1]: https://github.com/VKCOM/kphpstorm/compare/v1.2.0...v1.2.1
+[1.2.0]: https://github.com/VKCOM/kphpstorm/compare/v1.1.0...v1.2.0
+[1.1.0]: https://github.com/VKCOM/kphpstorm/compare/v1.0.0...v1.1.0
+[1.0.0]: https://github.com/VKCOM/kphpstorm/commits/v1.0.0
