@@ -2,6 +2,22 @@
 
 ## [Unreleased]
 
+## [1.2.18] - 06.08.2025
+
+- Adapt code for PhpStorm 2025.2
+
+## [1.2.17] - 05.08.2025
+
+- Fix IllegalArgumentException when navigating the codebase
+
+## [1.2.16] - 04.08.2025
+
+- Adapt code for PhpStorm 2025.1
+
+## [1.2.15] - 31.07.2025
+
+- introduce an intention to add `@kphp-immutable-class` annotation
+
 ## [1.2.14] - 01.03.2024
 
 - adapt code for 2024.3
